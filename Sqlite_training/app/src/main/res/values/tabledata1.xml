@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cs3_vi_monday">
+        <item>SEPM</item>
+        <item>ACA</item>
+        <item>LAB MP</item>
+        <item>LAB MP</item>
+        <item>PPL</item>
+        <item>SEPM(A)/CN(B)</item>
+        <item>CN</item>
+    </string-array>
+    <string-array name="cs3_vi_tuesday">
+        <item>SEPM</item>
+        <item>ACA</item>
+        <item>LAB MP</item>
+        <item>LAB MP</item>
+        <item>PPL</item>
+        <item>SEPM(A)/CN(B)</item>
+        <item>CN</item>
+    </string-array>
+    <string-array name="cs3_vi_wednesday">
+        <item>SEPM</item>
+        <item>ACA</item>
+        <item>LAB MP</item>
+        <item>LAB MP</item>
+        <item>PPL</item>
+        <item>SEPM(A)/CN(B)</item>
+        <item>CN</item>
+    </string-array>
+    <string-array name="cs3_vi_thursday">
+        <item>SEPM</item>
+        <item>ACA</item>
+        <item>LAB MP</item>
+        <item>LAB MP</item>
+        <item>PPL</item>
+        <item>SEPM(A)/CN(B)</item>
+        <item>CN</item>
+    </string-array>
+    <string-array name="cs3_vi_friday">
+        <item>SEPM</item>
+        <item>ACA</item>
+        <item>LAB MP</item>
+        <item>LAB MP</item>
+        <item>PPL</item>
+        <item>SEPM(A)/CN(B)</item>
+        <item>CN</item>
+    </string-array>
+    <string-array name="cs3_vi_saturday">
+        <item>SEPM</item>
+        <item>ACA</item>
+        <item>LAB MP</item>
+        <item>LAB MP</item>
+        <item>PPL</item>
+        <item>SEPM(A)/CN(B)</item>
+        <item>CN</item>
+    </string-array>
+</resources>
